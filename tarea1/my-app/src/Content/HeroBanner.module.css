@@ -2,5 +2,12 @@
 	background-color: red;
 	color: white;
 	display: flex;
-	justify-content: center;
+	flex-direction: row;
+	justify-content: space-evenly;
+	align-items: center;
+	height: 400px;
+}
+
+.img {
+	height: 300px;
 }
