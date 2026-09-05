@@ -11,12 +11,12 @@ function App() {
   return (
     <>
       <HeroBanner/>
+      <About/>
       <Proyects/>
       <Technologies/>
       <Education/>
       <Hobbies/>
       <Contact/>
-      <About/>
     </>
   )
 }

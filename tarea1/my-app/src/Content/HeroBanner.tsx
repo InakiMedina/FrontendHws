@@ -1,7 +1,7 @@
 export default function HeroBanner() {
 	return (
 		<>
-			Hero Banner
+			<h1>Iñaki medina Mungía</h1>
 		</>
 	)
 }
