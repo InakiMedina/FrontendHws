@@ -1,4 +1,5 @@
 import { Component, inject, signal, computed } from '@angular/core';
+import { RouterLink } from '@angular/router';
 import { MovieService } from '../../services/movie';
 
 
@@ -25,7 +26,7 @@ const typesUsedInQuery: MovieKey[] = [
 
 @Component({
   selector: 'app-home',
-  imports: [],
+  imports: [RouterLink],
   templateUrl: './home.html',
   styleUrl: './home.scss',
 })
