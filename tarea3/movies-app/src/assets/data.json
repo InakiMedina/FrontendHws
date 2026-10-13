@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "titulo": "Inception",
+    "director": "Christopher Nolan",
+    "productor": "Emma Thomas, Christopher Nolan",
+    "genero": "Ciencia ficción, Acción",
+    "ano": 2010,
+    "descripcion": "Un ladrón que roba secretos corporativos a través de la tecnología de compartir sueños recibe la tarea inversa de implantar una idea en la mente del director de una corporación.",
+    "imagen": "https://image.tmdb.org/t/p/w500/edv5CZvWj09upOsy2Y6IwDhK8bt.jpg"
+  },
+  {
+    "id": 2,
+    "titulo": "The Shawshank Redemption",
+    "director": "Frank Darabont",
+    "productor": "Niki Marvin",
+    "genero": "Drama, Crimen",
+    "ano": 1994,
+    "descripcion": "Dos hombres encarcelados forjan una amistad a lo largo de los anos, encontrando consuelo y una eventual redención a través de actos de decencia común.",
+    "imagen": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg"
+  },
+  {
+    "id": 3,
+    "titulo": "Interstellar",
+    "director": "Christopher Nolan",
+    "productor": "Emma Thomas, Christopher Nolan, Lynda Obst",
+    "genero": "Ciencia ficción, Drama, Aventura",
+    "ano": 2014,
+    "descripcion": "Un equipo de exploradores viaja a través de un agujero de gusano en el espacio en un intento por garantizar la supervivencia de la humanidad.",
+    "imagen": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
+  },
+  {
+    "id": 4,
+    "titulo": "Pulp Fiction",
+    "director": "Quentin Tarantino",
+    "productor": "Lawrence Bender",
+    "genero": "Crimen, Drama",
+    "ano": 1994,
+    "descripcion": "Las vidas de dos sicarios de la mafia, un boxeador, la esposa de un gánster y dos bandidos se entrelazan en cuatro historias de violencia y redención.",
+    "imagen": "https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg"
+  },
+  {
+    "id": 5,
+    "titulo": "Spirited Away",
+    "director": "Hayao Miyazaki",
+    "productor": "Toshio Suzuki",
+    "genero": "Animación, Fantasía, Aventura",
+    "ano": 2001,
+    "descripcion": "Durante el traslado de su familia a los suburbios, una niña de 10 anos entra sin querer en un mundo gobernado por dioses, brujas y espíritus, donde los humanos se convierten en bestias.",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmediaproxy.tvtropes.org%2Fwidth%2F1200%2Fhttps%3A%2F%2Fstatic.tvtropes.org%2Fpmwiki%2Fpub%2Fimages%2Fspiritedawaybig.png&f=1&nofb=1&ipt=2ca194c696cb276c7cb2faac9fc5f89286d8bf17a620ef53053b7567d9eb9437&ipo=images"
+  },
+  {
+    "id": 6,
+    "titulo": "Parasite",
+    "director": "Bong Joon-ho",
+    "productor": "Kwak Sin-ae, Moon Yang-kwon, Bong Joon-ho",
+    "genero": "Suspenso, Drama, Comedia negra",
+    "ano": 2019,
+    "descripcion": "La discriminación y la codicia amenazan la recién formada relación simbiótica entre la acaudalada familia Park y el empobrecido clan Kim.",
+    "imagen": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg"
+  },
+  {
+    "id": 7,
+    "titulo": "The Dark Knight",
+    "director": "Christopher Nolan",
+    "productor": "Emma Thomas, Charles Roven, Christopher Nolan",
+    "genero": "Acción, Crimen, Drama",
+    "ano": 2008,
+    "descripcion": "Cuando la amenaza conocida como el Guasón causa estragos y caos en Gotham City, Batman debe aceptar una de las mayores pruebas psicológicas y físicas de su capacidad para luchar contra la injusticia.",
+    "imagen": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+  },
+  {
+    "id": 8,
+    "titulo": "Whiplash",
+    "director": "Damien Chazelle",
+    "productor": "Jason Blum, Helen Estabrook, David Lancaster, Michel Litvak",
+    "genero": "Drama, Música",
+    "ano": 2014,
+    "descripcion": "Un joven y prometedor baterista se inscribe en un conservatorio de música muy competitivo donde su instructor no se detendrá ante nada para hacer realidad el potencial de un estudiante.",
+    "imagen": "https://image.tmdb.org/t/p/w500/7fn624j5lj3xTme2SgiLCeuedmO.jpg"
+  },
+  {
+    "id": 9,
+    "titulo": "Blade Runner 2049",
+    "director": "Denis Villeneuve",
+    "productor": "Andrew A. Kosove, Broderick Johnson, Bud Yorkin, Cynthia Sikes Yorkin",
+    "genero": "Ciencia ficción, Misterio",
+    "ano": 2017,
+    "descripcion": "El descubrimiento por parte de un joven blade runner de un secreto oculto durante mucho tiempo lo lleva a rastrear al antiguo blade runner Rick Deckard, quien ha estado desaparecido durante treinta anos.",
+    "imagen": "https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg"
+  },
+  {
+    "id": 10,
+    "titulo": "Coco",
+    "director": "Lee Unkrich, Adrián Molina",
+    "productor": "Darla K. Anderson",
+    "genero": "Animación, Fantasía, Familiar",
+    "ano": 2017,
+    "descripcion": "El aspirante a músico Miguel, enfrentado a la prohibición ancestral de la música por parte de su familia, entra en la Tierra de los Muertos para encontrar a su tatarabuelo, un legendario cantante.",
+    "imagen": "https://image.tmdb.org/t/p/w500/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg"
+  }
+]

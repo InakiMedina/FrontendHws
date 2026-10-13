@@ -1,0 +1,15 @@
+.movie-grid {
+	display: flex;
+	flex-wrap: wrap;
+	background-color: black;
+	color: white;
+}
+
+.movie-card {
+	margin: 50px;
+	width: 350px;
+}
+
+img {
+	width: 350px;
+}
