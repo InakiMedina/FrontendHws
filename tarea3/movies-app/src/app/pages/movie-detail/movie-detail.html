@@ -1,0 +1,14 @@
+@if (movie(); as selectedMovie) {
+  <article class="detail-container">
+    <img [src]="selectedMovie.imagen" [alt]="selectedMovie.titulo" />
+    <h1>{{ selectedMovie.titulo }} ({{ selectedMovie.ano }})</h1>
+    <p><strong>Director:</strong> {{ selectedMovie.director }}</p>
+    <p><strong>Producer:</strong> {{ selectedMovie.productor }}</p>
+    <p><strong>Genre:</strong> {{ selectedMovie.genero }}</p>
+    <p>{{ selectedMovie.descripcion }}</p>
+
+    <a routerLink="/">Back to Catalog</a>
+  </article>
+} @else {
+  <p>Movie with ID {{ id() }} not found.
+}
