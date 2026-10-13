@@ -14,6 +14,7 @@
 			<p><strong>Product:</strong> {{ movie.productor }}</p>
 			<p><strong>Genero:</strong> {{ movie.genero }}</p>
 			<p><strong>{{ movie.ano }}</strong> </p>
+			<a [routerLink]="['/movies', movie.id]">View Details</a>
 		</div>
 	} @empty {
 		<p>No movies available.</p>
